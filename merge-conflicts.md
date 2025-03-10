@@ -1,1 +1,1 @@
-Colbys merge-conflict.md
+Colby merge-conflicts.md
